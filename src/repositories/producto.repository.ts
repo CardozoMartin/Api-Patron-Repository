@@ -1,4 +1,4 @@
-// src/repositories/producto.repository.ts
+
 import Producto, { IProducto } from '../models/producto.model';
 
 export interface IProductoRepository {
